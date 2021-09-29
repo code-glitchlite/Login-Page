@@ -162,7 +162,7 @@ a {
   align-items: center;
   font-size: 0.8em;
   color: #6b6b6b;
-  margin-top: 3.5em;
+  margin-top: 1.5em;
 }
 
 .footerContainer .policyContainer p {
@@ -173,4 +173,20 @@ a {
 .footerContainer .copyrightContainer p {
   position: relative;
   left: 8em;
+}
+
+.credentialsContainer {
+  text-align: center;
+  display: block;
+}
+
+.credentialsContainer h3 {
+  display: inline;
+  font-weight: lighter;
+  margin-right: 0.2em;
+}
+
+.credentialsContainer a {
+  font-weight: bold;
+  font-size: 1.5em;
 }
